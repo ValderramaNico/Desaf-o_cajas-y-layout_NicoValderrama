@@ -38,7 +38,7 @@
 
 .orange__box--arrow {
   position: absolute;
-  background-color: #e4572e;
+  background-color: $flame;
   width: 125px;
   height: 120px;
   top: 61%;
@@ -54,7 +54,7 @@
 
 .yellow__box {
   position: absolute;
-  background-color: #faf74c;
+  background-color: $yellowbuff;
   width: 120px;
   height: 120px;
   top: 65.8%;
