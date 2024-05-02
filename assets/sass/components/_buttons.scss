@@ -1,0 +1,30 @@
+// buttons
+
+.button__clear {
+  position: relative;
+  left: 43%;
+  border: 1px solid;
+  border-color: #989797;
+  color: #989797;
+  background-color: #ffffff;
+  padding: 8px;
+}
+
+.button__clear:hover {
+  color: #000000;
+  border-color: #000000;
+}
+
+.button__green {
+  position: relative;
+  left: 45%;
+  background-color: green;
+  color: white;
+  padding: 8px;
+  border: none;
+}
+
+.button__green:hover {
+  color: #000000;
+  background-color: #bddfc7;
+}

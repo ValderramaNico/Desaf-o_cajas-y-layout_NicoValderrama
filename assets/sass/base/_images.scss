@@ -1,0 +1,47 @@
+// Primera sección
+
+.main__img-top {
+  width: 70%;
+}
+
+// Segunda sección
+
+.box--blue {
+  position: absolute;
+  background-color: #3c91e6;
+  width: 36%;
+  height: 82%;
+  top: 0;
+  left: 34.5%;
+  z-index: 1;
+}
+
+.map {
+  position: absolute;
+  width: 30%;
+  height: 80%;
+  object-fit: cover;
+  top: 10px;
+  left: 34%;
+  z-index: 2;
+}
+
+.floating__coofee {
+  position: absolute;
+  width: 7%;
+  height: 60%;
+  left: 67%;
+  object-fit: cover;
+  top: 0;
+  z-index: 99;
+}
+
+.left__bottom {
+  position: absolute;
+  right: 0;
+  top: 0;
+  object-fit: cover;
+  width: 30%;
+  height: 100%;
+  z-index: 2;
+}

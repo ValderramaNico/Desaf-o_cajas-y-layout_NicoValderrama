@@ -1,0 +1,69 @@
+// primera sección
+
+.main__section {
+  position: relative;
+  width: 100%;
+}
+
+.main__img-top {
+  position: relative;
+  vertical-align: middle;
+  width: 69%;
+}
+
+.img-top__large {
+  height: 55vh;
+}
+
+.aside {
+  position: absolute;
+  top: 0;
+  right: 3rem;
+}
+
+.details {
+  position: absolute;
+  background-color: #ffffff;
+  width: 53%;
+  height: 130px;
+  left: 50.2%;
+  top: 62.5%;
+  padding-top: 3%;
+}
+
+.details > * {
+  display: inline-block;
+  padding: 0.6rem;
+}
+
+.orange__box--arrow {
+  position: absolute;
+  background-color: #e4572e;
+  width: 125px;
+  height: 120px;
+  top: 61%;
+  left: 69%;
+  z-index: 3;
+}
+
+.fa-solid {
+    position: absolute;
+    left: 32%;
+    top: 32%;
+}
+
+.yellow__box {
+  position: absolute;
+  background-color: #faf74c;
+  width: 120px;
+  height: 120px;
+  top: 65.8%;
+  left: 71.2%;
+  z-index: 2;
+}
+
+// Segunda sección
+
+.bottom__section {
+  position: relative;
+}
